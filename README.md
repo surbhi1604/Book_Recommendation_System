@@ -5,5 +5,5 @@ A book recommender system is a tool that suggests books to users based on their 
 
 There are several approaches to building a book recommender system,including collaborative filtering, content-based filtering, and hybrid systems that combine both methods.
 
-![Project Image](https://raw.githubusercontent.com/surbhi1604/Book_Recommendation_System/main/project.png)
+![Project1 Image](https://raw.githubusercontent.com/surbhi1604/Book_Recommendation_System/main/project1.jpeg)
 
