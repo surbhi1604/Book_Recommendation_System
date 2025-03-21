@@ -14,6 +14,7 @@
 * <b> Hybrid Systems</b> : Hybrid systems combine both collaborative filtering and content-based filtering to make recommendations. They can take into account both the characteristics of the books and the preferences of the users to provide a more personalized recommendation.
 
   ### **Dataset Description**
+  ---
 
   The Book-Crossing dataset comprises 3 files.
 
