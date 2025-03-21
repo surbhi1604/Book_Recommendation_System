@@ -9,9 +9,9 @@
 
 * <b> Collaborative filtering </b>: Collaborative filtering is based on the idea that users who have similar reading histories are likely to have similar interests, so a book that one user likes is likely to be enjoyed by another user with similar reading history. This approach is often used in recommendation systems for movies, music, and other products.
 
-Content-based filtering, on the other hand, focuses on the characteristics of the books themselves, such as their genre, theme, and author, to make recommendations. This approach is useful when there is not enough data available about users' preferences to use collaborative filtering.
+ * <b> Content-based filtering </b>: Content-based filtering focuses on the characteristics of the books themselves, such as their genre, theme, and author, to make recommendations. This approach is useful when there is not enough data available about users' preferences to use collaborative filtering.
 
-Hybrid systems combine both collaborative filtering and content-based filtering to make recommendations. They can take into account both the characteristics of the books and the preferences of the users to provide a more personalized recommendation.
+* <b> Hybrid Systems</b>: Hybrid systems combine both collaborative filtering and content-based filtering to make recommendations. They can take into account both the characteristics of the books and the preferences of the users to provide a more personalized recommendation.
 
 
 
